@@ -24,7 +24,7 @@
         <groupId>junit</groupId>
         <artifactId>junit</artifactId>
         <version>4.11</version>
-        indrajith<package>war</package>
+        <scope>test</scope>
     </dependency>
   </dependencies>
 
